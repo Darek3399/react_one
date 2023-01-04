@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Darek3399/react_one.git/static/css/main.53a5de94.css",
-    "main.js": "/Darek3399/react_one.git/static/js/main.781a3c11.js",
+    "main.js": "/Darek3399/react_one.git/static/js/main.14cfcd53.js",
     "static/media/Benny Benassi - Hit My Heart.mp3": "/Darek3399/react_one.git/static/media/Benny Benassi - Hit My Heart.ca5668c9e5d76b73283e.mp3",
     "static/media/B-Complex - Beautiful Lies.mp3": "/Darek3399/react_one.git/static/media/B-Complex - Beautiful Lies.c8bef721cf3339c184a7.mp3",
     "static/media/Blood Stain Child - Electricity.mp3": "/Darek3399/react_one.git/static/media/Blood Stain Child - Electricity.38d335a50f2393a9bb69.mp3",
@@ -25,10 +25,10 @@
     "static/media/playlist-pause.svg": "/Darek3399/react_one.git/static/media/playlist-pause.e4fe8f6de9aa2276a791958caafbefff.svg",
     "index.html": "/Darek3399/react_one.git/index.html",
     "main.53a5de94.css.map": "/Darek3399/react_one.git/static/css/main.53a5de94.css.map",
-    "main.781a3c11.js.map": "/Darek3399/react_one.git/static/js/main.781a3c11.js.map"
+    "main.14cfcd53.js.map": "/Darek3399/react_one.git/static/js/main.14cfcd53.js.map"
   },
   "entrypoints": [
     "static/css/main.53a5de94.css",
-    "static/js/main.781a3c11.js"
+    "static/js/main.14cfcd53.js"
   ]
 }
