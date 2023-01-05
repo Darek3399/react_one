@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_one/static/css/main.53a5de94.css",
-    "main.js": "/react_one/static/js/main.395694cf.js",
+    "main.js": "/react_one/static/js/main.325ff9f2.js",
     "static/media/Benny Benassi - Hit My Heart.mp3": "/react_one/static/media/Benny Benassi - Hit My Heart.ca5668c9e5d76b73283e.mp3",
     "static/media/B-Complex - Beautiful Lies.mp3": "/react_one/static/media/B-Complex - Beautiful Lies.c8bef721cf3339c184a7.mp3",
     "static/media/Blood Stain Child - Electricity.mp3": "/react_one/static/media/Blood Stain Child - Electricity.38d335a50f2393a9bb69.mp3",
@@ -12,6 +12,7 @@
     "static/media/Ashnikko - No Brainer.mp3": "/react_one/static/media/Ashnikko - No Brainer.a6b0de791d8cd1f14dd9.mp3",
     "static/media/Ashnikko - Special.mp3": "/react_one/static/media/Ashnikko - Special.da4b6848d48af83331f8.mp3",
     "static/media/Avril Lavigne - Take It.mp3": "/react_one/static/media/Avril Lavigne - Take It.9204555b4b416fa39fdd.mp3",
+    "static/media/cookie.png": "/react_one/static/media/cookie.8d842e2960b368affc02.png",
     "static/media/preloader.svg": "/react_one/static/media/preloader.429027ef9a2473382ccd3cffb0b29aa2.svg",
     "static/media/exit.svg": "/react_one/static/media/exit.4c0003304ab773037a526f4d19963e65.svg",
     "static/media/random-on.svg": "/react_one/static/media/random-on.bf04996fc90a33615afccb5acf094f0c.svg",
@@ -25,10 +26,10 @@
     "static/media/playlist-pause.svg": "/react_one/static/media/playlist-pause.e4fe8f6de9aa2276a791958caafbefff.svg",
     "index.html": "/react_one/index.html",
     "main.53a5de94.css.map": "/react_one/static/css/main.53a5de94.css.map",
-    "main.395694cf.js.map": "/react_one/static/js/main.395694cf.js.map"
+    "main.325ff9f2.js.map": "/react_one/static/js/main.325ff9f2.js.map"
   },
   "entrypoints": [
     "static/css/main.53a5de94.css",
-    "static/js/main.395694cf.js"
+    "static/js/main.325ff9f2.js"
   ]
 }
