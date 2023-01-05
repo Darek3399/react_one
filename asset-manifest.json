@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_one/static/css/main.53a5de94.css",
-    "main.js": "/react_one/static/js/main.1be4f844.js",
+    "main.js": "/react_one/static/js/main.372a39a7.js",
     "static/media/Benny Benassi - Hit My Heart.mp3": "/react_one/static/media/Benny Benassi - Hit My Heart.ca5668c9e5d76b73283e.mp3",
     "static/media/B-Complex - Beautiful Lies.mp3": "/react_one/static/media/B-Complex - Beautiful Lies.c8bef721cf3339c184a7.mp3",
     "static/media/Blood Stain Child - Electricity.mp3": "/react_one/static/media/Blood Stain Child - Electricity.38d335a50f2393a9bb69.mp3",
@@ -15,6 +15,7 @@
     "static/media/cookie.png": "/react_one/static/media/cookie.8d842e2960b368affc02.png",
     "static/media/preloader.svg": "/react_one/static/media/preloader.429027ef9a2473382ccd3cffb0b29aa2.svg",
     "static/media/exit.svg": "/react_one/static/media/exit.4c0003304ab773037a526f4d19963e65.svg",
+    "static/media/logo.svg": "/react_one/static/media/logo.03b3d475149c9821772ffc47e7c15026.svg",
     "static/media/random-on.svg": "/react_one/static/media/random-on.bf04996fc90a33615afccb5acf094f0c.svg",
     "static/media/random-off.svg": "/react_one/static/media/random-off.6ea59135c339f4d3351ad3525b6adab5.svg",
     "static/media/sound-on.svg": "/react_one/static/media/sound-on.4fb0625fe5c683b5a73136b52e2b0ff3.svg",
@@ -26,10 +27,10 @@
     "static/media/playlist-pause.svg": "/react_one/static/media/playlist-pause.e4fe8f6de9aa2276a791958caafbefff.svg",
     "index.html": "/react_one/index.html",
     "main.53a5de94.css.map": "/react_one/static/css/main.53a5de94.css.map",
-    "main.1be4f844.js.map": "/react_one/static/js/main.1be4f844.js.map"
+    "main.372a39a7.js.map": "/react_one/static/js/main.372a39a7.js.map"
   },
   "entrypoints": [
     "static/css/main.53a5de94.css",
-    "static/js/main.1be4f844.js"
+    "static/js/main.372a39a7.js"
   ]
 }
