@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_one/static/css/main.53a5de94.css",
-    "main.js": "/react_one/static/js/main.79f72c83.js",
+    "main.css": "/react_one/static/css/main.c3ec8038.css",
+    "main.js": "/react_one/static/js/main.c4beaeea.js",
     "static/media/Benny Benassi - Hit My Heart.mp3": "/react_one/static/media/Benny Benassi - Hit My Heart.ca5668c9e5d76b73283e.mp3",
     "static/media/B-Complex - Beautiful Lies.mp3": "/react_one/static/media/B-Complex - Beautiful Lies.c8bef721cf3339c184a7.mp3",
     "static/media/Blood Stain Child - Electricity.mp3": "/react_one/static/media/Blood Stain Child - Electricity.38d335a50f2393a9bb69.mp3",
@@ -26,11 +26,11 @@
     "static/media/pause.svg": "/react_one/static/media/pause.b331537dcadaf0937f09e44e54c93c95.svg",
     "static/media/playlist-pause.svg": "/react_one/static/media/playlist-pause.e4fe8f6de9aa2276a791958caafbefff.svg",
     "index.html": "/react_one/index.html",
-    "main.53a5de94.css.map": "/react_one/static/css/main.53a5de94.css.map",
-    "main.79f72c83.js.map": "/react_one/static/js/main.79f72c83.js.map"
+    "main.c3ec8038.css.map": "/react_one/static/css/main.c3ec8038.css.map",
+    "main.c4beaeea.js.map": "/react_one/static/js/main.c4beaeea.js.map"
   },
   "entrypoints": [
-    "static/css/main.53a5de94.css",
-    "static/js/main.79f72c83.js"
+    "static/css/main.c3ec8038.css",
+    "static/js/main.c4beaeea.js"
   ]
 }
