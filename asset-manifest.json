@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_one/static/css/main.c3ec8038.css",
-    "main.js": "/react_one/static/js/main.0cd4a69f.js",
+    "main.js": "/react_one/static/js/main.d17def6a.js",
     "static/media/Benny Benassi - Hit My Heart.mp3": "/react_one/static/media/Benny Benassi - Hit My Heart.ca5668c9e5d76b73283e.mp3",
     "static/media/B-Complex - Beautiful Lies.mp3": "/react_one/static/media/B-Complex - Beautiful Lies.c8bef721cf3339c184a7.mp3",
     "static/media/Blood Stain Child - Electricity.mp3": "/react_one/static/media/Blood Stain Child - Electricity.38d335a50f2393a9bb69.mp3",
@@ -27,10 +27,10 @@
     "static/media/playlist-pause.svg": "/react_one/static/media/playlist-pause.e4fe8f6de9aa2276a791958caafbefff.svg",
     "index.html": "/react_one/index.html",
     "main.c3ec8038.css.map": "/react_one/static/css/main.c3ec8038.css.map",
-    "main.0cd4a69f.js.map": "/react_one/static/js/main.0cd4a69f.js.map"
+    "main.d17def6a.js.map": "/react_one/static/js/main.d17def6a.js.map"
   },
   "entrypoints": [
     "static/css/main.c3ec8038.css",
-    "static/js/main.0cd4a69f.js"
+    "static/js/main.d17def6a.js"
   ]
 }
